@@ -1,5 +1,8 @@
 # Grails School Cheater
 
+[![Build Status](https://travis-ci.org/i-shame/grails-school-cheater.svg?branch=master)](https://travis-ci.org/i-shame/grails-school-cheater)
+[![Inline docs](http://inch-ci.org/github/i-shame/grails-school-cheater.svg?branch=master)](http://inch-ci.org/github/i-shame/grails-school-cheater)
+
 >School Cheater On Grails 3.3.x sử dụng Inspinial Admin Theme Template
 
 ## Getting Started
