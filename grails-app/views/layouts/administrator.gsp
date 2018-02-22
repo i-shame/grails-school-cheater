@@ -80,19 +80,6 @@
                     </ul>
                 </li>
                 <li>
-                    <a href="#"><i class="fa fa-edit"></i> <span class="nav-label">Forms</span><span
-                            class="fa arrow"></span></a>
-                    <ul class="nav nav-second-level collapse">
-                        <li><a href="#">Basic form</a></li>
-                        <li><a href="#">Advanced Plugins</a></li>
-                        <li><a href="#">Wizard</a></li>
-                        <li><a href="#">File Upload</a></li>
-                        <li><a href="#">Text Editor</a></li>
-                        <li><a href="#">Autocomplete</a></li>
-                        <li><a href="#">Markdown</a></li>
-                    </ul>
-                </li>
-                <li>
                     <a href="#"><i class="fa fa-desktop"></i> <span class="nav-label">App Views</span>  <span
                             class="pull-right label label-primary">SPECIAL</span></a>
                     <ul class="nav nav-second-level collapse">
@@ -189,39 +176,6 @@
                 <li>
                     <a href="#"><i class="fa fa-laptop"></i> <span class="nav-label">Grid options</span>
                     </a>
-                </li>
-                <li>
-                    <a href="#"><i class="fa fa-table"></i> <span class="nav-label">Tables</span><span
-                            class="fa arrow"></span></a>
-                    <ul class="nav nav-second-level collapse">
-                        <li><a href="#">Static Tables</a></li>
-                        <li><a href="#">Data Tables</a></li>
-                        <li><a href="#">Foo Tables</a></li>
-                        <li><a href="#">jqGrid</a></li>
-                    </ul>
-                </li>
-                <li>
-                    <a href="#"><i class="fa fa-shopping-cart"></i> <span class="nav-label">E-commerce</span><span
-                            class="fa arrow"></span></a>
-                    <ul class="nav nav-second-level collapse">
-                        <li><a href="#">Products grid</a></li>
-                        <li><a href="#">Products list</a></li>
-                        <li><a href="#">Product edit</a></li>
-                        <li><a href="#">Product detail</a></li>
-                        <li><a href="#">Cart</a></li>
-                        <li><a href="#">Orders</a></li>
-                        <li><a href="#">Credit Card form</a></li>
-                    </ul>
-                </li>
-                <li>
-                    <a href="#"><i class="fa fa-picture-o"></i> <span class="nav-label">Gallery</span><span
-                            class="fa arrow"></span></a>
-                    <ul class="nav nav-second-level collapse">
-                        <li><a href="#">Lightbox Gallery</a></li>
-                        <li><a href="#">Slick Carousel</a></li>
-                        <li><a href="#">Bootstrap Carousel</a></li>
-
-                    </ul>
                 </li>
                 <li>
                     <a href="#"><i class="fa fa-sitemap"></i> <span class="nav-label">Menu Levels</span><span

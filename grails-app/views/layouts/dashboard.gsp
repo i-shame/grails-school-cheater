@@ -43,7 +43,7 @@
                     <ul class="nav navbar-nav">
                         <li class="dropdown">
                             <a aria-expanded="false" role="button" href="#" class="dropdown-toggle"
-                               data-toggle="dropdown">Menu item <span class="caret"></span></a>
+                               data-toggle="dropdown">Exams <span class="caret"></span></a>
                             <ul role="menu" class="dropdown-menu">
                                 <li><a href="">Menu item</a></li>
                                 <li><a href="">Menu item</a></li>
@@ -53,7 +53,7 @@
                         </li>
                         <li class="dropdown">
                             <a aria-expanded="false" role="button" href="#" class="dropdown-toggle"
-                               data-toggle="dropdown">Menu item <span class="caret"></span></a>
+                               data-toggle="dropdown">Courses <span class="caret"></span></a>
                             <ul role="menu" class="dropdown-menu">
                                 <li><a href="">Menu item</a></li>
                                 <li><a href="">Menu item</a></li>
@@ -63,7 +63,7 @@
                         </li>
                         <li class="dropdown">
                             <a aria-expanded="false" role="button" href="#" class="dropdown-toggle"
-                               data-toggle="dropdown">Menu item <span class="caret"></span></a>
+                               data-toggle="dropdown">Assessments <span class="caret"></span></a>
                             <ul role="menu" class="dropdown-menu">
                                 <li><a href="">Menu item</a></li>
                                 <li><a href="">Menu item</a></li>
@@ -73,7 +73,17 @@
                         </li>
                         <li class="dropdown">
                             <a aria-expanded="false" role="button" href="#" class="dropdown-toggle"
-                               data-toggle="dropdown">Menu item <span class="caret"></span></a>
+                               data-toggle="dropdown">Quizzes <span class="caret"></span></a>
+                            <ul role="menu" class="dropdown-menu">
+                                <li><a href="">Menu item</a></li>
+                                <li><a href="">Menu item</a></li>
+                                <li><a href="">Menu item</a></li>
+                                <li><a href="">Menu item</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a aria-expanded="false" role="button" href="#" class="dropdown-toggle"
+                               data-toggle="dropdown">Academy <span class="caret"></span></a>
                             <ul role="menu" class="dropdown-menu">
                                 <li><a href="">Menu item</a></li>
                                 <li><a href="">Menu item</a></li>
