@@ -44,7 +44,7 @@
                             <li><a href="#">Contacts</a></li>
                             <li><a href="#">Mailbox</a></li>
                             <li class="divider"></li>
-                            <li><a href="#">Logout</a></li>
+                            <li><g:link uri="/logoff">Logout</g:link></li>
                         </ul>
                     </div>
 
@@ -340,9 +340,9 @@
 
 
                     <li>
-                        <a href="#">
+                        <g:link uri="/logoff">
                             <i class="fa fa-sign-out"></i> Log out
-                        </a>
+                        </g:link>
                     </li>
                 </ul>
 

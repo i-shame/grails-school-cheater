@@ -36,71 +36,36 @@
                             class="navbar-toggle collapsed" type="button">
                         <i class="fa fa-reorder"></i>
                     </button>
-                    <a href="#" class="navbar-brand">Inspinia</a>
+                    <a href="/dashboard" class="navbar-brand">SC</a>
                 </div>
 
                 <div class="navbar-collapse collapse" id="navbar">
                     <ul class="nav navbar-nav">
                         <li class="dropdown">
-                            <a aria-expanded="false" role="button" href="#" class="dropdown-toggle"
-                               data-toggle="dropdown">Exams <span class="caret"></span></a>
-                            <ul role="menu" class="dropdown-menu">
-                                <li><a href="">Menu item</a></li>
-                                <li><a href="">Menu item</a></li>
-                                <li><a href="">Menu item</a></li>
-                                <li><a href="">Menu item</a></li>
-                            </ul>
+                            <g:link uri="/dashboard/exams">Exams </g:link>
                         </li>
                         <li class="dropdown">
-                            <a aria-expanded="false" role="button" href="#" class="dropdown-toggle"
-                               data-toggle="dropdown">Courses <span class="caret"></span></a>
-                            <ul role="menu" class="dropdown-menu">
-                                <li><a href="">Menu item</a></li>
-                                <li><a href="">Menu item</a></li>
-                                <li><a href="">Menu item</a></li>
-                                <li><a href="">Menu item</a></li>
-                            </ul>
+                            <g:link uri="/dashboard/courses">Courses </g:link>
                         </li>
                         <li class="dropdown">
-                            <a aria-expanded="false" role="button" href="#" class="dropdown-toggle"
-                               data-toggle="dropdown">Assessments <span class="caret"></span></a>
-                            <ul role="menu" class="dropdown-menu">
-                                <li><a href="">Menu item</a></li>
-                                <li><a href="">Menu item</a></li>
-                                <li><a href="">Menu item</a></li>
-                                <li><a href="">Menu item</a></li>
-                            </ul>
+                            <g:link uri="/dashboard/assessments">Assessments </g:link>
                         </li>
                         <li class="dropdown">
-                            <a aria-expanded="false" role="button" href="#" class="dropdown-toggle"
-                               data-toggle="dropdown">Quizzes <span class="caret"></span></a>
-                            <ul role="menu" class="dropdown-menu">
-                                <li><a href="">Menu item</a></li>
-                                <li><a href="">Menu item</a></li>
-                                <li><a href="">Menu item</a></li>
-                                <li><a href="">Menu item</a></li>
-                            </ul>
+                            <g:link uri="/dashboard/quizzes">Quizzes </g:link>
                         </li>
                         <li class="dropdown">
-                            <a aria-expanded="false" role="button" href="#" class="dropdown-toggle"
-                               data-toggle="dropdown">Academy <span class="caret"></span></a>
-                            <ul role="menu" class="dropdown-menu">
-                                <li><a href="">Menu item</a></li>
-                                <li><a href="">Menu item</a></li>
-                                <li><a href="">Menu item</a></li>
-                                <li><a href="">Menu item</a></li>
-                            </ul>
+                            <g:link uri="/dashboard/academy">Academy </g:link>
                         </li>
                         <li class="active">
-                            <a aria-expanded="false" role="button" href="/administrator">Go to Administrator page</a>
+                            <a href="/administrator">Go to Administrator page</a>
                         </li>
 
                     </ul>
                     <ul class="nav navbar-top-links navbar-right">
                         <li>
-                            <a href="/logout">
+                            <g:link uri="/logoff">
                                 <i class="fa fa-sign-out"></i> Log out
-                            </a>
+                            </g:link>
                         </li>
                     </ul>
                 </div>
